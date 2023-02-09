@@ -1,4 +1,4 @@
-![MasterHead](https://media.discordapp.net/attachments/1027129619834482720/1073316881013940264/Clean_Banner_by_Cap._1.png?width=1064&height=355)
+![MasterHead](https://cdn.discordapp.com/attachments/1027129619834482720/1073320413981069412/Slice_3.png)
 <h1 align="center">👋Heya, I'm Hiftie</h1>
 <h3 align="center">A versatile software developer with expertise in bot development and a passion for all things around Discord.</h3>
 

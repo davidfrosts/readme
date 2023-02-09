@@ -1,4 +1,4 @@
-[![MasterHead]https://cdn.discordapp.com/attachments/1027129619834482720/1073316881013940264/Clean_Banner_by_Cap._1.png](https://hiftie.tk)
+[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io))](https://hiftie.tk)
 <h1 align="center">👋Heya, I'm Hiftie</h1>
 <h3 align="center">A versatile software developer with expertise in bot development and a passion for all things around Discord.</h3>
 

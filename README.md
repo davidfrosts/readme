@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1027129619834482720/1073320413981069412/Slice_3.png)
+![MasterHead](https://cdn.discordapp.com/attachments/1027129619834482720/1073322806244290740/Slice_3.png)
 <h1 align="center">👋Heya, I'm Hiftie</h1>
 <h3 align="center">A versatile software developer with expertise in bot development and a passion for all things around Discord.</h3>
 
